@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/kuan0426/demo-build-and-publish-gitbook/edit/master/",
+        "base": "https://github.com/kuan0426/demo-gitboo/edit/master/",
         "label": "Edit This Page"
       },
       "ga": {
